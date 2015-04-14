@@ -1,0 +1,2 @@
+Scrape basic Facebook page data for a company: likes, talking about etc. that are in the associated rfgraph structure.
+You just need to know the integer id for the fb page.
