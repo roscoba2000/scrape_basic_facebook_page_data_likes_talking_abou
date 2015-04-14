@@ -5,7 +5,7 @@ require 'rfgraph'
 
 req = RFGraph::Request.new      
   
-res= req.get_object("SandiKrakowskiBiz")  # https://graph.facebook.com/116771361715257
+res= req.get_object("PEI-Liberals")  # https://www.facebook.com/pages/PEI-Liberals/183212951743526?fref=ts&ref=br_tf
 
 puts res["website"]
 puts res["name"] 
